@@ -1,2 +1,3 @@
-#Livro de Receitas de mentirinha
-###Olá, bem-vindo ao livro de receitas mais falso do mundo haha
+﻿# Welcome to my world
+##### esse é o meu primeiro repositório, espero ter um bom progresso 
+
