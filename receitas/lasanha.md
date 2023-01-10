@@ -1,1 +1,1 @@
-Lasanha é minha bengala
+NÃ£o existe nenhuma receita aqui hahaha
